@@ -19,4 +19,5 @@ Connect Four is a classic two-player strategy game implemented as a web-based ap
 ## Technical Details
 - Built with React.js
 - Responsive design for various screen sizes
-
+## Game Link
+https://fretful-effect.surge.sh/
